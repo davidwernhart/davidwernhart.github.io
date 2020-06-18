@@ -24,10 +24,10 @@ linkedin_username: davidwernhart
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Hello there!
-My name is David and I like to tinker with computers. At the age of 14, I built my first functional CPU out of logic components from inside a video game, with my excitement and expertise about this topic only growing since then.
-
-  My current primary fields of expertise are: <mark>Game Development</mark> (Unity, LibGdx), <mark>App Development</mark> (Flutter) and <mark>Computer Vision</mark> (TensorFlow, OpenCV).
+    Hello there!
+    My name is David and I like to tinker with computers. At the age of 14, I built my first functional CPU out of logic components from inside a video game, with my excitement and expertise about this topic only growing since then.
+    
+    My current primary fields of expertise are: <mark>Game Development</mark> (Unity, LibGdx), <mark>App Development</mark> (Flutter) and <mark>Computer Vision</mark> (TensorFlow, OpenCV).
 
 # Projects Section
 # projects_title: Projects
