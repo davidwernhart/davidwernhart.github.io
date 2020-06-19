@@ -11,9 +11,9 @@
     Starting as a part-time job to complement my studies, I eventually took on more and more complex projects, with games like *Old Maid* and *Mau Mau* being developed almost exclusively by me.
 - layout: left
   company: Thales Austria
-#  
+#
 #- layout: middle
 #  company: IBM
-#  
-#- layout: right
-#  company: iteratec
+#
+- layout: right
+  company: iteratec
