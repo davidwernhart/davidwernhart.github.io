@@ -1,10 +1,21 @@
 - layout: left
   company: DonkeyCat GmbH
-  link: https://www.donkeycat.com/
+  link: www.donkeycat.com
   job_title: Mobile Game Developer
   dates: April 2017 - Present
   quote: >
    DonkeyCat is an Austrian software company specialized on mobile app development
   description: | # this will include new lines to allow paragraphs
     With the focus on bringing classic card games like *Schnopsn*, *Mills* and *Ten Down* to mobile devices, DonkeyCat has found wide success in local and international markets.
+    
     Starting as a part-time job to complement my studies, I eventually took on more and more complex projects, with games like *Old Maid* and *Mau Mau* being developed almost exclusively by me.
+    
+    
+- layout: left
+  company: Thales Austria
+  
+- layout: middle
+  company: IBM
+  
+- layout: right
+  company: iteratec
