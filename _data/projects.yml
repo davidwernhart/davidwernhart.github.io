@@ -1,8 +1,18 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: AlDente 🍝
+  link: https://github.com/davidwernhart/AlDente
+  github: https://github.com/davidwernhart/AlDente
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Don't overcook your battery! Keep it fresh and chewy with AlDente.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    With over 1600 downloads to date, AlDente is the first tool to limit the maximum charging percentage on MacBooks. This can extend the lifetime of Li-Ion batteries by a significant amount.
+    
+- layout: top-middle
+  name: Escape Velocity
+  link: https://davidwernhart.itch.io/escape-velocity
+  quote: >
+    Use the (gravitational) force!
+  description: | # this will include new lines to allow paragraphs
+    My most recent GameJam project.
+    
+    In Escape Velocity, you are in charge to direct a missile rocket to a target planet. Although you cannot control the rocket directly, you are able to manipulate the size of planets that attract the missile with their gravity.
